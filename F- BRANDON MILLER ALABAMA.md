@@ -1,12 +1,11 @@
----
-share: true
----
+
 ![](https://i.imgur.com/g54GcEZ.png)
 
 
 
 
 <h1>Overview<h1>
+	
 HT: 6'9
 WS: *n/a*
 Age: 20
@@ -55,20 +54,3 @@ Miller can improve his process as a player by finding pathways to be a threat in
 
 
 
-<h1>Other<h1/>
--  Low Shooting Pocket
-- Doesnt decelerate well
-- Lean Forward on drives
-- Lack Vertical pop
-- Wrist strength allow more adjustments?
-- aware on off ball D
-	- can overhelp and leave shooters open
-- Competes on glass 
-	- not always able to get it though
-- pretty average defensivley
-- picturesque footwork off screens
-- doesnt play thru digs tend to retreat
-- stays ready on C+S preset feet and hands up
-- has hands up but doesnt jump for rim protection
-- heady cutter
-- 
